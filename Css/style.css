@@ -18,7 +18,7 @@
 
 body {
     
-    line-height: 1.6;
+    line-height: 1.2;
 }
 
 
@@ -41,12 +41,24 @@ body {
 
 }
 
+.h1 {
+    font-size: 25px;
+    font-weight: 500;
+    color: red;
+}
+
 .icon {
     width: 19%;
 }
 
 .search {
     width: 59%;
+}
+
+input {
+    font-size: 17px;
+   color: gray;
+   padding-left: 10px; 
 }
 
  input {
@@ -68,12 +80,13 @@ height: 30px;
     padding-top: 20px;
     padding-left: 40px;
     padding-right: 40px;
-    background-color: ;
+    
 }
 
 .video {
-    width: 64%;
+    width: 69%;
     padding-right: 20px;
+    
 }
 
 h1 {
@@ -86,7 +99,7 @@ h1 {
 }
 
 .side-bar {
-    width: 34%;
+    width: 29%;
     padding-left: 20px;
 }
 
@@ -136,9 +149,25 @@ a {
     width: 50%; 
 }
 
+
 .right-text {
     width: 50%;
     margin-left: 10px;
 }
 
 
+h2 {
+    font-size: 20px;
+    font-weight: 200;
+    color: #111;
+}
+
+h3 {
+    font-size: 10px;
+    font-weight: 100;
+    color: gray;
+}
+
+p{
+color: gray;
+}
